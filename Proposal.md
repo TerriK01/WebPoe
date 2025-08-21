@@ -1,4 +1,9 @@
-Website Project Proposal: Gemstone Haven 
+Terri ciara kleinbooi.
+St10472572
+21 August 2025
+
+
+Website Project Proposal: Gemstone Haven  
 1. Organisation Overview 
 - Name: Gemstone Haven 
 - Founded: 2025 
