@@ -44,7 +44,7 @@ No existing website — this is a new development project.
 - Collections / Products Page: 
   - Categories of jewellery (rings, necklaces, earrings, bracelets). 
   - Each with high-quality images and descriptions. 
-  - Option to filter/sort (future upgrade: “Add to Cart” for e-commerce). 
+  
  
 - Enquiry Page: 
   - Dedicated form where customers can request details about products, pricing, or custom designs. 
@@ -54,15 +54,15 @@ No existing website — this is a new development project.
  
 - Contact Page: 
   - General contact form. 
-  - Email, phone number, and physical address (if applicable). 
-  - Embedded Google Map (if a physical store exists). 
+  - Email, phone number, and physical address . 
+ 
  
 
 5. Design and User Experience 
 - Overall Aesthetic: Elegant, soft, luxurious yet approachable. 
 - Colour Palette: #daab00, #fff3e3, #ecc386. 
 - Typography: 
-  - Headings: Javanese Text font (e.g., Playfair Display) for elegance. 
+  - Headings: Javanese Text font for elegance. 
   - Body: Cinzel, for readability and comfort. 
 - Layout & Design: Minimalist, clean design with strong emphasis on product imagery. 
 - UX Considerations: 
@@ -72,7 +72,6 @@ No existing website — this is a new development project.
   - Readable font sizes for ease of browsing. 
 - Wireframes: To be developed for homepage, about page, enquiry page, contact page, product page
 6. Technical Requirements 
-- Domain: www.gemstonehaven.com (proposed). 
 - Technologies: HTML5, CSS3, JavaScript for initial development. 
 
 7. Timeline and Milestones 
@@ -85,10 +84,14 @@ No existing website — this is a new development project.
 8. Budget (Estimated) 
 - Website development: R2000 (student project scope — scalable later) 
 - Maintenance: R800/month 
-- Marketing (optional): R1500/month for social media campaigns 
+- Marketing : R1500/month for social media campaigns 
 9. References
 
   
 
 - Colour palette and typography references from canva. 
-- Market research on jewellery e-commerce trends and websites such as lovisa. 
+- Market research on jewellery e-commerce trends and websites such as lovisa.
+
+
+
+
